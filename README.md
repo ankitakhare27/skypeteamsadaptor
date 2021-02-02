@@ -1,0 +1,2 @@
+# skypeteamsadaptor
+Skype Teams Adaptor
